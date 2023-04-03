@@ -1,12 +1,11 @@
-def BRONCH():
+def command():
     print('Hello, World!')
 
 
-def test_odin():
+def test_one():
     assert 1 > 0
 
 
-BRONCH()
+command()
 
-test_odin()
-
+test_one()
