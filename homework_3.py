@@ -2,8 +2,9 @@ def Dranch():
     print('Hello, World!')
 
 
-def test_odin():
+def test_one():
     assert 1 > 0
+
 
 
 Dranch()
