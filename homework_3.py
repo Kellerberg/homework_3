@@ -2,10 +2,11 @@ def command():
     print('Hello, World!')
 
 
-def test_odin():
+def test_two():
     assert 1 > 0
 
 
 command()
 
-test_odin()
+test_two()
+
